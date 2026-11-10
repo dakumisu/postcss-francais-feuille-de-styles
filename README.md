@@ -32,8 +32,8 @@ Using this `input.css`:
 ```css
 .fou {
     hauteur: 300px;
-    marges-du-bas: 10px;
-    taille-de-la-police: 20px !prioritaire;
+    marge-du-bas: 10px;
+    taille-de-la-typographie: 20px !prioritaire;
     couleur-du-fond: aiguemarine;
     couleur: blanc;
 }
