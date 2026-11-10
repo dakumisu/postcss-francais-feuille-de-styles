@@ -1,6 +1,6 @@
 # PostCSS Feuille de Styles Française
 
-[![travis](https://img.shields.io/travis/timche/postcss-french-stylesheets.svg?style=flat-square)](https://travis-ci.org/timche/postcss-french-stylesheets)
+[![travis](https://img.shields.io/travis/com/dakumisu/postcss-francais-feuille-de-styles.svg?style=flat-square)](https://app.travis-ci.com/github/dakumisu/postcss-francais-feuille-de-styles)
 [![npm](https://img.shields.io/npm/v/postcss-francais-feuille-de-styles.svg?style=flat-square)](https://www.npmjs.com/package/postcss-francais-feuille-de-styles)
 
 > [PostCSS](https://github.com/postcss/postcss) plugin for writing French Style Sheets.
