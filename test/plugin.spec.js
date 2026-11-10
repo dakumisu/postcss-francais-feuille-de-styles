@@ -38,7 +38,7 @@ function valueTest(french, english, property = 'french') {
   })
 }
 
-describe('postcss-french-stylesheets', () => {
+describe('postcss-francais-feuille-de-styles', () => {
   // Test Properties
   Object.keys(properties).forEach((property) => propertyTest(properties[property], property))
 

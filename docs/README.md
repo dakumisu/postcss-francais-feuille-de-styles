@@ -1,7 +1,7 @@
-# PostCSS French Style Sheets
+# PostCSS Feuille de Styles Française
 
 [![travis](https://img.shields.io/travis/timche/postcss-french-stylesheets.svg?style=flat-square)](https://travis-ci.org/timche/postcss-french-stylesheets)
-[![npm](https://img.shields.io/npm/v/postcss-french-stylesheets.svg?style=flat-square)](https://www.npmjs.com/package/postcss-french-stylesheets)
+[![npm](https://img.shields.io/npm/v/postcss-francais-feuille-de-styles.svg?style=flat-square)](https://www.npmjs.com/package/postcss-francais-feuille-de-styles)
 
 > [PostCSS](https://github.com/postcss/postcss) plugin for writing French Style Sheets.
 
@@ -10,17 +10,17 @@ Take CSS to the next level and write your CSS « à la française » 🇫🇷 !
 ## Installation
 
 ```console
-$ npm install postcss-french-stylesheets
+$ npm install postcss-francais-feuille-de-styles
 ```
 
 ## Usage
 
 ```js
 // ES5
-var frenchStyleSheets = require('postcss-french-stylesheets')
+var frenchStyleSheets = require('postcss-francais-feuille-de-styles')
 
 // ES6
-import frenchStyleSheets from 'postcss-french-stylesheets'
+import frenchStyleSheets from 'postcss-francais-feuille-de-styles'
 ```
 
 See [PostCSS#Usage](https://github.com/postcss/postcss#usage) for usage for your environment.
@@ -32,8 +32,8 @@ Using this `input.css`:
 ```css
 .fou {
     hauteur: 300px;
-    marges-du-bas: 10px;
-    taille-de-la-police: 20px !prioritaire;
+    marge-du-bas: 10px;
+    taille-de-la-typographie: 20px !prioritaire;
     couleur-du-fond: aiguemarine;
     couleur: blanc;
 }

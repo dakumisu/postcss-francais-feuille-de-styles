@@ -2,7 +2,7 @@ import postcss from 'postcss'
 import properties from './properties'
 import values from './values'
 
-module.exports = postcss.plugin('postcss-french-stylesheets', () => (css) => {
+module.exports = postcss.plugin('postcss-francais-feuille-de-styles', () => (css) => {
   css.walkDecls((decl) => {
     /**
      * Convert Properties
