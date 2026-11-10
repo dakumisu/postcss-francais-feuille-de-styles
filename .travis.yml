@@ -2,6 +2,10 @@ language: node_js
 node_js:
   - "22"
   - "24"
+before_install:
+  - npm install -g pnpm@12
+install:
+  - pnpm install --frozen-lockfile
 script:
-  - npm run lint
-  - npm test
+  - pnpm run lint
+  - pnpm test
