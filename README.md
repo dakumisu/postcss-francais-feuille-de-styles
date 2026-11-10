@@ -66,6 +66,6 @@ See [CHANGELOG.md](https://github.com/timche/postcss-french-stylesheets/blob/mas
 
 ## License
 
-postCSS French CSS is based on the [postCSS German CSS]https://github.com/timche/postcss-german-stylesheets) plugin. Danke to them for the base architecture !
+postCSS French CSS is based on the [postCSS German CSS](https://github.com/timche/postcss-german-stylesheets) plugin. Danke to them for the base architecture !
 
 See [LICENSE](https://github.com/timche/postcss-french-stylesheets/blob/master/LICENSE).
