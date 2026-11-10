@@ -1,13 +1,13 @@
 # Properties
 | English | French |
 | ------ | ------ |
-| ` accent-color ` | `couleur-d'accent` |
+| ` accent-color ` | `couleur-d’accent` |
 | ` align-content ` | `alignement-du-contenu` |
 | ` align-items ` | `alignement-des-éléments` |
 | ` align-self ` | `alignement-de-soi` |
 | ` all ` | `tout` |
 | ` animation ` | `animation` |
-| ` animation-composition ` | `composition-de-l'animation` |
+| ` animation-composition ` | `composition-de-l’animation` |
 | ` animation-delay ` | `délai-animation` |
 | ` animation-direction ` | `direction-animation` |
 | ` animation-duration ` | `durée-animation` |
@@ -18,8 +18,8 @@
 | ` animation-timeline ` | `chronologie-animation` |
 | ` animation-timing-function ` | `fonction-déroulement-animation` |
 | ` appearance ` | `apparence` |
-| ` aspect-ratio ` | `rapport-d'aspect` |
-| ` backdrop-filter ` | `filtre-d'arrière-plan` |
+| ` aspect-ratio ` | `rapport-d’aspect` |
+| ` backdrop-filter ` | `filtre-d’arrière-plan` |
 | ` backface-visibility ` | `visibilité-de-la-face-arrière` |
 | ` background ` | `fond` |
 | ` background-attachment ` | `attachement-du-fond` |
@@ -58,11 +58,11 @@
 | ` border-end-end-radius ` | `rayon-de-fin-de-fin-de-bordure` |
 | ` border-end-start-radius ` | `rayon-de-fin-de-début-de-bordure` |
 | ` border-image ` | `image-des-bordures` |
-| ` border-image-outset ` | `dépassement-de-l'image-des-bordures` |
-| ` border-image-repeat ` | `répétition-de-l'image-des-bordures` |
-| ` border-image-slice ` | `coupure-de-l'image-des-bordures` |
-| ` border-image-source ` | `source-de-l'image-des-bordures` |
-| ` border-image-width ` | `épaisseur-de-l'image-des-bordures` |
+| ` border-image-outset ` | `dépassement-de-l’image-des-bordures` |
+| ` border-image-repeat ` | `répétition-de-l’image-des-bordures` |
+| ` border-image-slice ` | `coupure-de-l’image-des-bordures` |
+| ` border-image-source ` | `source-de-l’image-des-bordures` |
+| ` border-image-width ` | `épaisseur-de-l’image-des-bordures` |
 | ` border-inline ` | `bordure-en-ligne` |
 | ` border-inline-color ` | `couleur-de-la-bordure-en-ligne` |
 | ` border-inline-end ` | `bordure-de-fin-en-ligne` |
@@ -106,7 +106,7 @@
 | ` caret-color ` | `couleur-du-curseur` |
 | ` clear ` | `nettoyer` |
 | ` clip ` | `attacher` |
-| ` clip-path ` | `chemin-d'attache` |
+| ` clip-path ` | `chemin-d’attache` |
 | ` color ` | `couleur` |
 | ` color-scheme ` | `jeu-de-couleurs` |
 | ` column-count ` | `nombre-de-colonnes` |
@@ -176,8 +176,8 @@
 | ` grid-template-rows ` | `rangées-du-gabarit-de-la-grille` |
 | ` height ` | `hauteur` |
 | ` hyphens ` | `césures` |
-| ` image-orientation ` | `orientation-de-l'image` |
-| ` image-rendering ` | `rendu-de-l'image` |
+| ` image-orientation ` | `orientation-de-l’image` |
+| ` image-rendering ` | `rendu-de-l’image` |
 | ` inline-size ` | `taille-en-ligne` |
 | ` inset ` | `encart` |
 | ` inset-block ` | `encart-de-bloc` |
@@ -227,8 +227,8 @@
 | ` min-inline-size ` | `taille-minimale-en-ligne` |
 | ` min-width ` | `largeur-minimale` |
 | ` mix-blend-mode ` | `mode-de-fusion` |
-| ` object-fit ` | `ajustement-de-l'objet` |
-| ` object-position ` | `position-de-l'objet` |
+| ` object-fit ` | `ajustement-de-l’objet` |
+| ` object-position ` | `position-de-l’objet` |
 | ` opacity ` | `opacité` |
 | ` order ` | `ordre` |
 | ` orphans ` | `orphelines` |
@@ -296,12 +296,12 @@
 | ` scroll-padding-left ` | `rembourrage-de-défilement-de-gauche` |
 | ` scroll-padding-right ` | `rembourrage-de-défilement-de-droite` |
 | ` scroll-padding-top ` | `rembourrage-de-défilement-du-haut` |
-| ` scroll-snap-align ` | `alignement-d'accrochage-du-défilement` |
-| ` scroll-snap-stop ` | `arrêt-d'accrochage-du-défilement` |
-| ` scroll-snap-type ` | `type-d'accrochage-du-défilement` |
+| ` scroll-snap-align ` | `alignement-d’accrochage-du-défilement` |
+| ` scroll-snap-stop ` | `arrêt-d’accrochage-du-défilement` |
+| ` scroll-snap-type ` | `type-d’accrochage-du-défilement` |
 | ` scrollbar-color ` | `couleur-de-la-barre-de-défilement` |
 | ` scrollbar-width ` | `largeur-de-la-barre-de-défilement` |
-| ` shape-image-threshold ` | `seuil-de-l'image-de-la-forme` |
+| ` shape-image-threshold ` | `seuil-de-l’image-de-la-forme` |
 | ` shape-margin ` | `marge-de-la-forme` |
 | ` shape-outside ` | `forme-extérieure` |
 | ` tab-size ` | `taille-de-tabulation` |
@@ -312,13 +312,13 @@
 | ` text-decoration ` | `décoration-du-texte` |
 | ` text-decoration-color ` | `couleur-de-la-décoration-du-texte` |
 | ` text-decoration-line ` | `ligne-de-la-décoration-du-texte` |
-| ` text-decoration-skip-ink ` | `saut-d'encre-de-la-décoration-du-texte` |
+| ` text-decoration-skip-ink ` | `saut-d’encre-de-la-décoration-du-texte` |
 | ` text-decoration-style ` | `style-de-la-décoration-du-texte` |
 | ` text-decoration-thickness ` | `épaisseur-de-la-décoration-du-texte` |
 | ` text-emphasis ` | `accentuation-du-texte` |
-| ` text-emphasis-color ` | `couleur-de-l'accentuation-du-texte` |
-| ` text-emphasis-position ` | `position-de-l'accentuation-du-texte` |
-| ` text-emphasis-style ` | `style-de-l'accentuation-du-texte` |
+| ` text-emphasis-color ` | `couleur-de-l’accentuation-du-texte` |
+| ` text-emphasis-position ` | `position-de-l’accentuation-du-texte` |
+| ` text-emphasis-style ` | `style-de-l’accentuation-du-texte` |
 | ` text-indent ` | `retrait-du-texte` |
 | ` text-orientation ` | `orientation-du-texte` |
 | ` text-overflow ` | `débordement-du-texte` |
@@ -350,5 +350,5 @@
 | ` word-break ` | `coupure-de-mot` |
 | ` word-spacing ` | `espacement-des-mots` |
 | ` word-wrap ` | `renvoi-de-mot` |
-| ` writing-mode ` | `mode-d'écriture` |
+| ` writing-mode ` | `mode-d’écriture` |
 | ` z-index ` | `indice-z` |

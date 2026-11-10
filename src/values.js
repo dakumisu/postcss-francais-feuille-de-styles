@@ -75,7 +75,7 @@ export default {
   'row': 'rangée',
   'row-reverse': 'rangée-inversée',
   'running': 'en-cours',
-  'scale-down': 'réduire-à-l\'échelle',
+  'scale-down': 'réduire-à-l’échelle',
   'scroll': 'défilement',
   'solid': 'plein',
   'space-around': 'espace-autour',
