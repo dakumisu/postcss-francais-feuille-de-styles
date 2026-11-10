@@ -22,15 +22,18 @@
     "french"
   ],
   "author": "Tom Canac <contact@tomcanac.com> (https://github.com/tmos)",
+  "contributors": [
+    "dakumisu <dakumisu.psd@gmail.com> (https://github.com/dakumisu)"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tmos/postcss-french-stylesheets.git"
+    "url": "https://github.com/dakumisu/postcss-francais-feuille-de-styles.git"
   },
   "bugs": {
-    "url": "https://github.com/tmos/postcss-french-stylesheets/issues"
+    "url": "https://github.com/dakumisu/postcss-francais-feuille-de-styles/issues"
   },
-  "homepage": "http://tmos.github.io/postcss-french-stylesheets",
+  "homepage": "https://github.com/dakumisu/postcss-francais-feuille-de-styles",
   "dependencies": {
     "postcss": "^5.0.19"
   },

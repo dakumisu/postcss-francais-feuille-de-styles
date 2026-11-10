@@ -53,19 +53,19 @@ you will get:
 
 ## Documentation
 
-- [Properties](https://github.com/timche/postcss-french-stylesheets/blob/master/docs/Properties.md)
-- [Values](https://github.com/timche/postcss-french-stylesheets/blob/master/docs/Values.md)
+- [Properties](https://github.com/dakumisu/postcss-francais-feuille-de-styles/blob/master/docs/Properties.md)
+- [Values](https://github.com/dakumisu/postcss-francais-feuille-de-styles/blob/master/docs/Values.md)
 
 ## Contributing
 
-`postcss-french-stylesheets` has only a subset of CSS and needs your help to add more French properties and values.
+`postcss-francais-feuille-de-styles` has only a subset of CSS and needs your help to add more French properties and values.
 
 ## Changelog
 
-See [CHANGELOG.md](https://github.com/timche/postcss-french-stylesheets/blob/master/CHANGELOG.md).
+See [CHANGELOG.md](https://github.com/dakumisu/postcss-francais-feuille-de-styles/blob/master/CHANGELOG.md).
 
 ## License
 
 postCSS French CSS is based on the [postCSS German CSS](https://github.com/timche/postcss-german-stylesheets) plugin. Danke to them for the base architecture !
 
-See [LICENSE](https://github.com/timche/postcss-french-stylesheets/blob/master/LICENSE).
+See [LICENSE](https://github.com/dakumisu/postcss-francais-feuille-de-styles/blob/master/LICENSE).
